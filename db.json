@@ -240,6 +240,250 @@
     "Period": "7/1/2021",
     "Amount": 1245
   }
+],
+
+"Forcast":[
+  {
+    "Account": 4000,
+    "Level": "Sales - North",
+    "Product": "Product A",
+    "Weight": 1,
+    "Period": "7/1/2021",
+    "Amount": 1831
+  },
+  {
+    "Account": 4000,
+    "Level": "Sales - South",
+    "Product": "Product A",
+    "Weight": 1,
+    "Period": "7/1/2021",
+    "Amount": 1450
+  },
+  {
+    "Account": 4000,
+    "Level": "Sales - East",
+    "Product": "Product B",
+    "Weight": 2,
+    "Period": "7/1/2021",
+    "Amount": 994
+  },
+  {
+    "Account": 4000,
+    "Level": "Sales - West",
+    "Product": "Product C",
+    "Weight": 10,
+    "Period": "7/1/2021",
+    "Amount": 1432
+  },
+  {
+    "Account": 4000,
+    "Level": "Sales - Toronto",
+    "Product": "Product C",
+    "Weight": 10,
+    "Period": "7/1/2021",
+    "Amount": 2406
+  },
+  {
+    "Account": 4000,
+    "Level": "Sales - Calgary",
+    "Product": "Product A",
+    "Weight": 1,
+    "Period": "7/1/2021",
+    "Amount": 1832
+  },
+  {
+    "Account": 4000,
+    "Level": "Sales - Swansea",
+    "Product": "Product D",
+    "Weight": 25,
+    "Period": "7/1/2021",
+    "Amount": 650
+  },
+  {
+    "Account": 4000,
+    "Level": "Sales - London",
+    "Product": "Product B",
+    "Weight": 2,
+    "Period": "7/1/2021",
+    "Amount": 234
+  },
+  {
+    "Account": 4000,
+    "Level": "Sales - UK",
+    "Product": "Product A",
+    "Weight": 1,
+    "Period": "7/1/2021",
+    "Amount": 1199
+  },
+  {
+    "Account": 5500,
+    "Level": "Sales - Paris",
+    "Product": "Product C",
+    "Weight": 10,
+    "Period": "7/1/2021",
+    "Amount": 876
+  },
+  {
+    "Account": 5500,
+    "Level": "Sales - North",
+    "Product": "Product A",
+    "Weight": 1,
+    "Period": "7/1/2021",
+    "Amount": 721
+  },
+  {
+    "Account": 5500,
+    "Level": "Sales - South",
+    "Product": "Product A",
+    "Weight": 1,
+    "Period": "7/1/2021",
+    "Amount": 2618
+  },
+  {
+    "Account": 5500,
+    "Level": "Sales - East",
+    "Product": "Product B",
+    "Weight": 2,
+    "Period": "7/1/2021",
+    "Amount": 514
+  },
+  {
+    "Account": 5500,
+    "Level": "Sales - West",
+    "Product": "Product C",
+    "Weight": 10,
+    "Period": "7/1/2021",
+    "Amount": 411
+  },
+  {
+    "Account": 5500,
+    "Level": "Sales - Toronto",
+    "Product": "Product C",
+    "Weight": 10,
+    "Period": "7/1/2021",
+    "Amount": 1307
+  },
+  {
+    "Account": 5500,
+    "Level": "Sales - Calgary",
+    "Product": "Product A",
+    "Weight": 1,
+    "Period": "7/1/2021",
+    "Amount": 204
+  },
+  {
+    "Account": 5500,
+    "Level": "Sales - Swansea",
+    "Product": "Product D",
+    "Weight": 25,
+    "Period": "7/1/2021",
+    "Amount": 2101
+  },
+  {
+    "Account": 5500,
+    "Level": "Sales - London",
+    "Product": "Product B",
+    "Weight": 2,
+    "Period": "7/1/2021",
+    "Amount": 333
+  },
+  {
+    "Account": 5500,
+    "Level": "Sales - UK",
+    "Product": "Product A",
+    "Weight": 1,
+    "Period": "7/1/2021",
+    "Amount": 106
+  },
+  {
+    "Account": 5500,
+    "Level": "Sales - Paris",
+    "Product": "Product C",
+    "Weight": 10,
+    "Period": "7/1/2021",
+    "Amount": 2710
+  },
+  {
+    "Account": 6500,
+    "Level": "Sales - North",
+    "Product": "Product A",
+    "Weight": 1,
+    "Period": "7/1/2021",
+    "Amount": 313
+  },
+  {
+    "Account": 6500,
+    "Level": "Sales - South",
+    "Product": "Product A",
+    "Weight": 1,
+    "Period": "7/1/2021",
+    "Amount": 1417
+  },
+  {
+    "Account": 6500,
+    "Level": "Sales - East",
+    "Product": "Product B",
+    "Weight": 2,
+    "Period": "7/1/2021",
+    "Amount": 1520
+  },
+  {
+    "Account": 6500,
+    "Level": "Sales - West",
+    "Product": "Product C",
+    "Weight": 10,
+    "Period": "7/1/2021",
+    "Amount": 624
+  },
+  {
+    "Account": 6500,
+    "Level": "Sales - Toronto",
+    "Product": "Product C",
+    "Weight": 10,
+    "Period": "7/1/2021",
+    "Amount": 2727
+  },
+  {
+    "Account": 6500,
+    "Level": "Sales - Calgary",
+    "Product": "Product A",
+    "Weight": 1,
+    "Period": "7/1/2021",
+    "Amount": 831
+  },
+  {
+    "Account": 6500,
+    "Level": "Sales - Swansea",
+    "Product": "Product D",
+    "Weight": 25,
+    "Period": "7/1/2021",
+    "Amount": 934
+  },
+  {
+    "Account": 6500,
+    "Level": "Sales - London",
+    "Product": "Product B",
+    "Weight": 2,
+    "Period": "7/1/2021",
+    "Amount": 1038
+  },
+  {
+    "Account": 6500,
+    "Level": "Sales - UK",
+    "Product": "Product A",
+    "Weight": 1,
+    "Period": "7/1/2021",
+    "Amount": 1141
+  },
+  {
+    "Account": 6500,
+    "Level": "Sales - Paris",
+    "Product": "Product C",
+    "Weight": 10,
+    "Period": "7/1/2021",
+    "Amount": 1245
+  }
 ]
 }
+
 
